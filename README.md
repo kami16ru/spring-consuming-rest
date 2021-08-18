@@ -1,1 +1,0 @@
-# spring-consuming-rest
